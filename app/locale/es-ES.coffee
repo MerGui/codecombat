@@ -56,9 +56,9 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     items: "Objetos" # Tooltip on item shop button from /play
     unlock: "Desbloquear" # For purchasing items and heroes
     confirm: "Confirmar"
-#    owned: "Owned" # For items you own
-#    locked: "Locked"
-#    purchasable: "Purchasable" # For a hero you unlocked but haven't purchased
+#    owned: "En Propiedad" # For items you own
+#    locked: "Bloqueado"
+#    purchasable: "Adquirible" # For a hero you unlocked but haven't purchased
     available: "Disponible"
     skills_granted: "Habilidades concedidas" # Property documentation details
     heroes: "Heroes" # Tooltip on hero shop button from /play
@@ -69,7 +69,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     change_hero: "Seleccionar Heroe" # Go back from choose inventory to choose hero
     choose_inventory: "Equipar Objetos"
     buy_gems: "Comprar Joyas"
-#    campaign_desert: "Desert Campaign"
+#    campaign_desert: "Campaña del desierto"
     campaign_forest: "Campaña del Bosque"
     campaign_dungeon: "Campaña del Calabozo"
     subscription_required: "Suscripción requerida"
@@ -102,7 +102,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
     log_in: "Entrar"
     logging_in: "Entrando..."
     log_out: "Salir"
-#    forgot_password: "Forgot your password?"
+#    forgot_password: "Recordar contraseña"
     authenticate_gplus: "Autenticar G+"
     load_profile: "Cargar perfil G+"
     load_email: "Cargar correo G+"
